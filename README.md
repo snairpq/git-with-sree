@@ -1,4 +1,1 @@
-git-with-sree
-=============
-
-Git Training
+Hello Git
